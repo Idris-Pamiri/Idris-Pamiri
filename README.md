@@ -26,7 +26,7 @@ Currently, I am proud to be part of the **MIT Emerging Talent cohort**, (foundat
 
 ## 🌐 Learn More  
 - **LinkedIn:** [www.linkedin.com/NAME_NAME](www.linkedin.com)  
-- **Website:** [www.emercoord.com](www.emercoord.com)  
+- **Website:** Emergency Coordination Simulation Platform (coming soon) [www.emercoord.com](www.emercoord.com)  
 
 ---
 

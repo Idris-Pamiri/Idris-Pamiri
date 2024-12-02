@@ -1,11 +1,48 @@
-# 👋 Hi, Visitor
-- 🌱 My name is Idris. I’m currently enrolled in MIT Emerging Talent programme (foundation course).
-- 👀 I’m interested in data driven decision making in logistics, supply chain and humanitarian aid delivery.
-- 💞️ I’m looking to collaborate on projects that will creeate more efficiency in supply chain and logistics through laveraing data analytics and data science. 
-- 📫 Lets connect: idris.jonmamadov@gmail.com  
-- ⚡ Fun fact: I speak an endangered old language that was preserved in the Pamir Highlands of Tajikistan. 
+# Idris 
+**Data Science Enthusiast | Humanitarian Innovator**
+---
 
-<!---
-Idris-Pamiri/Idris-Pamiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌟 About Me  
+I am Idris, a humanitarian professional with over a decade of experience coordinating aid in natural disasters and conflict-related crises across Central Asia, Afghanistan, and Ukraine. As a highlander from Tajikistan’s indigenous Pamiri ethnic minority, I bring a unique perspective shaped by my roots.  
+
+Holding a Master’s in Public Administration from Syracuse University, I am passionate about improving humanitarian aid delivery through better data-driven coordination and decision-making. Additionally, I strive to preserve and revitalize endangered languages as a means to support cultural diversity.  
+
+Currently, I am proud to be part of the **MIT Emerging Talent cohort**, (foundation class)  which equips global learners with the tools to advance their careers and foster transformative change within their communities.  
+
+---
+
+## 🎯 Focus Areas  
+- **Humanitarian Aid Delivery:** Enhancing logistics and supply chain operations through data-driven simulations and predictive modeling.  
+- **Crisis Management Optimization:** Leveraging technology to improve decision-making in conflict zones and disaster relief scenarios.  
+- **Cultural Preservation:** Advocating for the preservation of endangered languages and cultural identities.  
+
+---
+
+## 🔧 Technical Skills  
+- **Programming & Tools:** Python (beginner), SQL (beginner)  
+- **Advanced Proficiency:** Microsoft Excel, Microsoft Power Platform  
+- **Other Interests:** Exploring simulation environments and advanced data-driven decision making tools for humanitarian applications.  
+
+---
+
+## 🌐 Learn More  
+- **LinkedIn:** [www.linkedin.com/NAME_NAME](www.linkedin.com)  
+- **Website:** [www.emercoord.com](www.emercoord.com)  
+
+---
+
+## 📬 Contact Me  
+Feel free to reach out for collaborations aimed at improving data-driven efficiency in logistics, supply chain management, or humanitarian aid delivery.  
+
+- **Email:** [idris.jonmamadov@gmail.com](mailto:idris.jonmamadov@gmail.com)  
+
+---
+
+## 🌱 Current Mission  
+As a member of the **MIT Emerging Talent cohort**, I am developing the skills and knowledge needed to bridge technology with humanitarian work, focusing on creating impactful solutions for crisis-affected communities worldwide.  
+
+---
+
+## 📂 Featured Projects  
+> *Coming Soon: A suite of projects aimed at creating data-driven simulation tools for humanitarian logistics and coordination. Stay tuned for updates!*  
+

@@ -33,7 +33,7 @@ Currently, I am proud to be part of the **MIT Emerging Talent cohort**, (foundat
 ## 📬 Contact Me  
 Feel free to reach out for collaborations aimed at improving data-driven efficiency in logistics, supply chain management, or humanitarian aid delivery.  
 
-- **Email:** [idris.jonmamadov@gmail.com](mailto:idris.jonmamadov@gmail.com)  
+- **Email:** [RESTRICTED]
 
 ---
 

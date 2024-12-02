@@ -3,8 +3,7 @@
 ---
 
 ## 🌟 About Me  
-I am Idris, a humanitarian professional with over a decade of experience coordinating aid in natural disasters and conflict-related crises across Central Asia, Afghanistan, and Ukraine. As a highlander from Tajikistan’s indigenous Pamiri ethnic minority, I bring a unique perspective shaped by my roots.  
-
+I am Idris, a humanitarian professional with over a decade of experience coordinating aid in natural disasters and conflict-related crises across Central Asia, Afghanistan, and Ukraine. 
 Holding a Master’s in Public Administration from Syracuse University, I am passionate about improving humanitarian aid delivery through better data-driven coordination and decision-making. Additionally, I strive to preserve and revitalize endangered languages as a means to support cultural diversity.  
 
 Currently, I am proud to be part of the **MIT Emerging Talent cohort**, (foundation class)  which equips global learners with the tools to advance their careers and foster transformative change within their communities.  

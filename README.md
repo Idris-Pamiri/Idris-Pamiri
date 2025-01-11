@@ -1,6 +1,6 @@
 # Idris
 
-## Data Science Enthusiast | Humanitarian Innovator ##
+## Data Science Enthusiast | Humanitarian Innovator
 
 ---
 
